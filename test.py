@@ -1,6 +1,6 @@
 
 def main():
-    print("afro gay")
+    print("afro dfasgay")
 
 
 if __name__ == "__main__":
